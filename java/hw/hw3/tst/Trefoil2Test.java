@@ -447,6 +447,4 @@ public class Trefoil2Test {
                 Interpreter.interpretExpression(Expression.parseString("x"), env)
         );
     }
-
-    // TODO: add a test for your new top-level "test" binding here
 }
